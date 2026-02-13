@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Profile</title>
+    
+</head>
+<center>
+<h1>
+    Profile
+</h1>
+<img src="WhatsApp Image 2026-02-13 at 2.00.42 PM.jpeg" width="200px">
+<body bgcolor="black" style="color: white;">\
+   <h2>
+        My self
+   </h2>
+   <h3>
+    Guna
+   </h3>
+   <h3>
+    Kallakurichi,Tamil nadu
+   </h3>
+   <h3>
+    BCA-Computer Application
+   </h3>
+<a href="https://www.instagram.com/dracule_mihawk_007/">Instagram|</a>
+<a href="9003882552">Whatsapp|</a>
+<a href="https://github.com/gunaparamasivam12-create">Github</a>
+</center>
+</body>
+</html>
